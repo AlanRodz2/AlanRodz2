@@ -1,3 +1,3 @@
-### This is my [Alan's School GitHub][github]
+### This is [Alan's School GitHub][github]
 
 [github]: https://github.com/Alan-Rodz
